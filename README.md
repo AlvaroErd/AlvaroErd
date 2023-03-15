@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AlvaroErd
-- 👀 I’m interested in Android App!
+- 👀 I’m interested in Android Apps!
 - 🌱 I’m currently learning Kotlin, MVVM of Android and basic programming skills!
